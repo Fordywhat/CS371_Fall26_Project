@@ -3,13 +3,13 @@ Contact Info
 
 Group Members & Email Addresses:
 
-    Person 1, person1@uky.edu
-    Person 2, person2@uky.edu
+    Ford Cull, ford.cull@uky.edu
+    John Ross Baker, jrba304@uky.edu
 
 Versioning
 ==========
 
-Github Link: 
+Github Link: https://github.com/Fordywhat/CS371_Fall26_Project/
 
 General Info
 ============
