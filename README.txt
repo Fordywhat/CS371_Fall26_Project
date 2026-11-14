@@ -10,6 +10,7 @@ Versioning
 ==========
 
 Github Link: https://github.com/Fordywhat/CS371_Fall26_Project/
+Report Google Doc Link: https://docs.google.com/document/d/1l6UBhc52srgRcSJcU9rIf8eW6wr9TeU8vZo9KH3yq5g/edit?usp=sharing
 
 General Info
 ============
